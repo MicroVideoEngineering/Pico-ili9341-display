@@ -1,3 +1,4 @@
+#
 import board
 import terminalio
 import displayio
